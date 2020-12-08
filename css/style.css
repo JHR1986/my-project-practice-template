@@ -8,9 +8,9 @@ body {
 
 .navbar {
     text-transform: uppercase;
-    font-weight: 700px;
+    font-weight: 1000px;
     font-size: 14px;
-    letter-spacing: 2px;
+    letter-spacing: 10px;
     background: rgba(0, 0, 0, 0.8)
 }
 
